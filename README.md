@@ -1,1 +1,1 @@
-# Reusable_UI_kit
+Thinking in components changed the way I structured my code because I stopped writing repeated HTML and JavaScript for every element. Instead, I created reusable functions such as createButton(), createCard(), createModal(), and createToast() that accept different parameters. This makes the code cleaner, easier to maintain, and easier to reuse in different parts of the application. It also helped me understand the basic idea behind component-based frameworks like React.
